@@ -7,14 +7,6 @@
         "esgenerate": "./bin/esgenerate.js",
         "escodegen": "./bin/escodegen.js"
     },
-    "files": [
-        "LICENSE.BSD",
-        "LICENSE.source-map",
-        "README.md",
-        "bin",
-        "escodegen.js",
-        "package.json"
-    ],
     "version": "1.8.0",
     "engines": {
         "node": ">=0.12.0"
